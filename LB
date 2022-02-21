@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T17:58:18.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="FcFCuGgWRgGLuwdERJ0z" version="16.5.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-21T17:59:07.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="eKRsB6Gwf6aIw9n2UEb5" version="16.5.6" type="github" pages="8">
   <diagram id="PhOvJVDfY4ZCYXWmg5NH" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="ThTllR2iyUrOGAsaDpXe-32" value="采集服务健壮" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FdNZsU6GbMpbDkhNrOR_-1">
           <mxGeometry x="122.5" y="550" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ThTllR2iyUrOGAsaDpXe-33" value="采集效率高单机7G" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FdNZsU6GbMpbDkhNrOR_-1">
+        <mxCell id="ThTllR2iyUrOGAsaDpXe-33" value="采集效率高&lt;br&gt;单机7G" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FdNZsU6GbMpbDkhNrOR_-1">
           <mxGeometry x="122.5" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jeKqNpHrfCdqx33zJRtU-0" value="" style="group" vertex="1" connectable="0" parent="FdNZsU6GbMpbDkhNrOR_-1">
@@ -279,7 +279,7 @@
         <mxCell id="jeKqNpHrfCdqx33zJRtU-27" value="具备拦截功能" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FdNZsU6GbMpbDkhNrOR_-1">
           <mxGeometry x="410" y="550" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jeKqNpHrfCdqx33zJRtU-28" value="低超时率" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FdNZsU6GbMpbDkhNrOR_-1">
+        <mxCell id="jeKqNpHrfCdqx33zJRtU-28" value="低超时率&lt;br&gt;（单日20次）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FdNZsU6GbMpbDkhNrOR_-1">
           <mxGeometry x="410" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jeKqNpHrfCdqx33zJRtU-36" value="低绕过率" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FdNZsU6GbMpbDkhNrOR_-1">
