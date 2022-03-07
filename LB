@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T10:53:16.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IEirl4VZayUqNjCIaNu_" version="16.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-07T12:53:19.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xlv2_diYBagVSA7MgLHY" version="16.6.4" type="github" pages="9">
   <diagram id="PhOvJVDfY4ZCYXWmg5NH" name="Page-1">
     <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -712,35 +712,43 @@
       <root>
         <mxCell id="2y02vVVXoExv3u8CCcWj-0" />
         <mxCell id="2y02vVVXoExv3u8CCcWj-1" parent="2y02vVVXoExv3u8CCcWj-0" />
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-0" value="UEM" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="2y02vVVXoExv3u8CCcWj-1">
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-0" value="UEM" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#B9E0A5;strokeColor=#82b366;" parent="2y02vVVXoExv3u8CCcWj-1" vertex="1">
           <mxGeometry x="250" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-1" value="可执行文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2y02vVVXoExv3u8CCcWj-1">
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-1" value="可执行文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="2y02vVVXoExv3u8CCcWj-1" vertex="1">
           <mxGeometry x="330" y="320" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-5" value="静态扫描&lt;br&gt;（二进制字符串内容）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2y02vVVXoExv3u8CCcWj-1">
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-5" value="静态扫描&lt;br&gt;（二进制字符串内容）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2y02vVVXoExv3u8CCcWj-1" vertex="1">
           <mxGeometry x="410" y="280" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-6" value="可执行文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2y02vVVXoExv3u8CCcWj-1">
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-6" value="可执行文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="2y02vVVXoExv3u8CCcWj-1" vertex="1">
           <mxGeometry x="330" y="320" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-7" value="yes" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="2y02vVVXoExv3u8CCcWj-1">
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-7" value="yes" style="endArrow=classic;html=1;rounded=0;" parent="2y02vVVXoExv3u8CCcWj-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="320" as="sourcePoint" />
             <mxPoint x="360" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2y02vVVXoExv3u8CCcWj-1" source="V1V01pqRsEPsAdJFKDJo-9" target="V1V01pqRsEPsAdJFKDJo-10">
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2y02vVVXoExv3u8CCcWj-1" source="V1V01pqRsEPsAdJFKDJo-9" target="V1V01pqRsEPsAdJFKDJo-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-9" value="文件存储服务器" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="2y02vVVXoExv3u8CCcWj-1">
-          <mxGeometry x="330" y="200" width="60" height="60" as="geometry" />
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-9" value="文件存储服务器" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="2y02vVVXoExv3u8CCcWj-1" vertex="1">
+          <mxGeometry x="330" y="190" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-10" value="SOC告警" style="whiteSpace=wrap;html=1;" vertex="1" parent="2y02vVVXoExv3u8CCcWj-1">
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-10" value="SOC告警" style="whiteSpace=wrap;html=1;" parent="2y02vVVXoExv3u8CCcWj-1" vertex="1">
           <mxGeometry x="300" y="70" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V1V01pqRsEPsAdJFKDJo-12" value="&lt;div&gt;1.Hash值匹配&lt;/div&gt;&lt;div&gt;2.存在系统调用的命令执行函数，如eval，system，cmd_shell，assert等；&lt;/div&gt;&lt;div&gt;3.存在系统调用的文件操作函数，如fopen，fwrite，readdir等；&lt;/div&gt;&lt;div&gt;4.存在数据库操作函数，调用系统自身的存储过程来连接数据库操作&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="2y02vVVXoExv3u8CCcWj-1">
+        <mxCell id="V1V01pqRsEPsAdJFKDJo-12" value="&lt;div&gt;1.Hash值匹配&lt;/div&gt;&lt;div&gt;2.存在系统调用的命令执行函数，如eval，system，cmd_shell，assert等；&lt;/div&gt;&lt;div&gt;3.存在系统调用的文件操作函数，如fopen，fwrite，readdir等；&lt;/div&gt;&lt;div&gt;4.存在数据库操作函数，调用系统自身的存储过程来连接数据库操作&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="2y02vVVXoExv3u8CCcWj-1" vertex="1">
           <mxGeometry x="494" y="239" width="182" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="V1AsO9lWfHdXeiykYglE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2y02vVVXoExv3u8CCcWj-1" source="V1AsO9lWfHdXeiykYglE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="326" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1AsO9lWfHdXeiykYglE-1" value="文件深度扫描引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="2y02vVVXoExv3u8CCcWj-1">
+          <mxGeometry x="150" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
