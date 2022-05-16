@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T01:36:15.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ix-a7Y_z3GgkLSKptTOJ" version="17.4.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-16T01:42:51.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="EOfFrX53Bc5aw67NAloa" version="17.4.3" type="github" pages="9">
   <diagram id="PhOvJVDfY4ZCYXWmg5NH" name="Page-1">
     <mxGraphModel dx="1024" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -608,7 +608,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f95SYwazpTh4tbd97KTW" name="第 7 页">
-    <mxGraphModel dx="1024" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IXq5lJH3J3GXQeXpl1N3-0" />
         <mxCell id="IXq5lJH3J3GXQeXpl1N3-1" parent="IXq5lJH3J3GXQeXpl1N3-0" />
@@ -732,7 +732,7 @@
         <mxCell id="Fq2XoBA0n_b3RZpl4EBC-1" value="办公网 生产网UEM" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;rounded=1;dashed=1;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
           <mxGeometry x="743" y="970" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Fq2XoBA0n_b3RZpl4EBC-2" value="140万IP linux&lt;br&gt;12万办公Win PC" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;dashed=1;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
+        <mxCell id="Fq2XoBA0n_b3RZpl4EBC-2" value="140万IP linux&amp;nbsp; 索引每天38T&lt;br&gt;12万办公Win PC" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;dashed=1;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
           <mxGeometry x="743" y="995" width="290" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Fq2XoBA0n_b3RZpl4EBC-4" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
@@ -746,6 +746,21 @@
         </mxCell>
         <mxCell id="sr4uIziusftqKpwRVmRr-2" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
           <mxGeometry x="900" y="740" width="133" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="sr4uIziusftqKpwRVmRr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="IXq5lJH3J3GXQeXpl1N3-1" source="sr4uIziusftqKpwRVmRr-7" target="sr4uIziusftqKpwRVmRr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sr4uIziusftqKpwRVmRr-7" value="UEM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
+          <mxGeometry x="906.5" y="810" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sr4uIziusftqKpwRVmRr-9" value="Hostsafe" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
+          <mxGeometry x="906.5" y="870" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sr4uIziusftqKpwRVmRr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="835" as="sourcePoint" />
+            <mxPoint x="1000" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
