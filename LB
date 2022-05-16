@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T03:29:48.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="oyqPQPeKgkqUMsM2VmhQ" version="17.4.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-16T03:30:29.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="4niADT0MkhaZYazJLjWI" version="17.4.3" type="github" pages="9">
   <diagram id="PhOvJVDfY4ZCYXWmg5NH" name="Page-1">
     <mxGraphModel dx="1024" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -774,7 +774,7 @@
         <mxCell id="pGWPnmkv8jCL-G-zCu2c-1" value="VPN DNS DHCP NAT&amp;nbsp; &amp;nbsp;业务日志" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;rounded=1;dashed=1;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
           <mxGeometry x="1010" y="970" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pGWPnmkv8jCL-G-zCu2c-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;SOC 数据聚合，溯源引擎&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
+        <mxCell id="pGWPnmkv8jCL-G-zCu2c-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;SOC 数据存储聚合，溯源引擎-MQ ES BDP Flink Storm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
           <mxGeometry x="39.68" y="570" width="1140.32" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pGWPnmkv8jCL-G-zCu2c-4" value="SOC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="IXq5lJH3J3GXQeXpl1N3-1">
