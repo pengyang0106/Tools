@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T09:52:26.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kHEf-ElyaXVoNnC4tBIk" version="20.0.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-20T09:54:30.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SKHSh9Yxh9YvDTLyi7hy" version="20.0.1" type="github" pages="10">
   <diagram id="PhOvJVDfY4ZCYXWmg5NH" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -899,7 +899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OqXJ0Ni2yalH4xOl8AUn" name="Page-10">
-    <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,11 +964,17 @@
         <mxCell id="bpA1TN9lbtcQX2RJJvDc-20" value="雷神实时引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="253" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bpA1TN9lbtcQX2RJJvDc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="bpA1TN9lbtcQX2RJJvDc-22" target="bpA1TN9lbtcQX2RJJvDc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bpA1TN9lbtcQX2RJJvDc-22" value="邮件通知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="253" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bpA1TN9lbtcQX2RJJvDc-32" value="告警对列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="253" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bpA1TN9lbtcQX2RJJvDc-34" value="有效事件" style="whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=#82b366;rounded=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
